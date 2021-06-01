@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dav88dev-student
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning software engineering
+- 👀 I’m a software engineer
+- 🌱 I’m currently doing my masters at National Polytechnic University of Armenia
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 reach me via email : davitaghayan.hmtt019@polytechnic.am
 
